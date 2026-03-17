@@ -1,0 +1,4 @@
+total 0
+drwxrwxrwx 1 root root 4.0K Mar 13 00:06 .
+-rwxrwxrwx 1 root root    0 Mar 13 00:06 task_3-4_1_2.txt
+drwxrwxrwx 1 root root 4.0K Mar 12 23:55 ..

@@ -1,0 +1,19 @@
+total 76K
+drwxr-xr-x 19 root root 4.0K Mar 13 00:04 ..
+-rw-------  1 root root 4.7K Mar 12 23:52 .bash_history
+dr-xr-x---  8 root root 4.0K Feb 17 15:50 .
+-rw-r--r--  1 root root    7 Feb 17 15:50 gty.txt
+drwxr-xr-x  3 root root 4.0K Feb 17 15:19 cv
+-rw-r--r--  1 root root   14 Feb 17 15:18 new.txt
+drwxr-xr-x  3 root root 4.0K Feb 17 15:16 pr
+-rw-r--r--  1 root root   21 Feb 17 12:21 file.txt
+drwxr-xr-x  2 root root 4.0K Feb 17 02:14 sd
+drwxr-xr-x  4 root root 4.0K Feb 17 02:13 cd
+drwxr-xr-x  3 root root 4.0K Feb 17 01:29 DF
+-rw-------  1 root root 1.5K Feb 16 22:46 .viminfo
+drwxr-xr-x  2 root root 4.0K Feb 16 22:30 .kj
+-rw-r--r--  1 root root   18 Jan  8  2022 .bash_logout
+-rw-r--r--  1 root root  141 Jan  8  2022 .bash_profile
+-rw-r--r--  1 root root  429 Jan  8  2022 .bashrc
+-rw-r--r--  1 root root  100 Jan  8  2022 .cshrc
+-rw-r--r--  1 root root  129 Jan  8  2022 .tcshrc
